@@ -1,0 +1,51 @@
+{
+  "name": "grunt-json-fmt",
+  "description": "Grunt plugin for JSON formatting with json-fmt",
+  "version": "1.0.0",
+  "homepage": "https://github.com/MaxArt2501/grunt-json-fmt",
+  "author": {
+    "name": "Massimo Artizzu",
+    "email": "maxart.x@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MaxArt2501/grunt-json-fmt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MaxArt2501/grunt-json-fmt/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/MaxArt2501/grunt-json-fmt/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt": "~0.4.5"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "json",
+    "minify",
+    "prettify",
+    "transformation",
+    "uglify",
+    "formatting",
+    "formatter",
+    "indentation",
+    "indent",
+    "gruntplugin",
+    "plugin"
+  ]
+}
